@@ -6,6 +6,7 @@ import junit.framework.TestSuite;
 //Hola profe 
 //Que onda
 //clase
+//Clase 1
 /**
  * Unit test for simple App.
  */
